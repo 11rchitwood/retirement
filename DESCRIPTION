@@ -1,0 +1,12 @@
+Package: retirement
+Title: The Best and Worst States for Retirement
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ryan", 
+           family = "Chitwood", 
+           role = c("aut", "cre"))
+Description: A Shiny app analyzing the best and worst states for retirement.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
